@@ -2,3 +2,5 @@ File baru di branch
 - baris Toefl
 - baris baru lagi
 - baris Laravel
+- baris Python
+- baris Machine Learning
