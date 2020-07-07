@@ -1,3 +1,5 @@
 File baru di branch
 - baris baru
 - baris baru lagi
+- baris Python
+- baris Machine Learning
