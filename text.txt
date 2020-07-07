@@ -2,5 +2,5 @@ TEXT
 - test teks 1
 - test teks 2
 - test 3
-- tambahan teks ke-4
 - tambahan lagi baris ke-5
+- baris ke-4 dihapus
