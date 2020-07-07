@@ -1,3 +1,4 @@
 File baru di branch
 - baris baru
 - baris baru lagi
+- baris Laravel
